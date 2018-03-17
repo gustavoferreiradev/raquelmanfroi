@@ -1,0 +1,35 @@
+<script type='application/ld+json'>
+    {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http://www.raquelmanfroi.com.br/fisioterapia-cancer-prostata/"
+        },
+        "headline": "Câncer de Próstata - Novembro Azul",
+        "image": {
+            "@type": "ImageObject",
+            "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2017/11/cancer-prostata.jpg",
+            "height": 675,
+            "width": 1080
+        },
+        "datePublished": "2017-11-16T10:17:00-02:00",
+        "dateModified": "2017-11-16T11:40:00-02:00",
+        "author": {
+            "@type": "Person",
+            "@id": "http://www.raquelmanfroi.com.br",
+            "name": "Raquel Manfroi"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Raquel Manfroi Fisioterapia",
+            "logo": {
+                "@type": "ImageObject",
+                "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2017/07/logo-raquel-manfroi-fisioterapia-novo-600.png",
+                "width": 600,
+                "height": 60
+            },
+            "description": "O câncer de próstata é o segundo mais comum entre os homens. Conheça como a Fisioterapia pode ajudar no tratamento e prevenção."
+        }
+    }
+</script>

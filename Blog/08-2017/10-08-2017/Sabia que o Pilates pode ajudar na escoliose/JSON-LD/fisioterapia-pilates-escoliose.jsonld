@@ -1,0 +1,117 @@
+<script type='application/ld+json'>
+[{
+  "@context": "http://schema.org",
+  "@type": "MedicalCondition",
+  "name": "Escoliose",
+  "associatedAnatomy": {
+    "@type": "AnatomicalStructure",
+    "name": "Coluna"
+  },
+  "cause": {
+    "@type":"MedicalCause",
+    "name": "Inclinação, rotação e extensão das vértebras"
+  },
+  "code": {
+    "@type": "MedicalCode",
+    "codeValue": "M419",
+    "codingSystem": "ICD-10"
+  },
+
+    "study":{
+      "@type": "MedicalStudy",
+      "description": "A escoliose é uma curva lateral na coluna vertebral, caracterizado pela inclinação, rotação e extensão das vértebras. Ela pode ser diagnosticada ainda na infância, na adolescência, nessa fase o ritmo de crescimento é muito acelerado podendo afetar a coluna, também podendo começar na vida adulta.
+Essa alteração na coluna está presente a mais de 3% da população mundial.
+A escoliose se apresenta por alguns motivos. Pode ser por má formação ou relacionada com outras doenças. Apesar de estudos o motivo ainda não foi comprovado com veracidade, 85% dos diagnósticos a causa foi desconhecida.
+Segundo o estudo do Departamento de Ciências Farmacêuticas da UFSC, a escoliose quando apresenta flexibilidade e ainda não está estruturada ela tem mais possibilidades e facilidades para corrigir e estabilizar a coluna, como na infância pois o corpo está em constante mudança."
+    },
+    "pathophysiology": "curva lateral na coluna vertebral, caracterizado pela inclinação, rotação e extensão das vértebras.",
+    "signOrSymptom": [
+      {
+        "@type": "MedicalSignOrSymptom",
+        "name": "Ombros desalinhados"
+      },
+
+      {
+        "@type": "MedicalSignOrSymptom",
+        "name": "Quadril desalinhado",
+        "description": "Um lado do quadril mais alto que o outro"
+      },
+
+      {
+        "@type": "MedicalSignOrSymptom",
+        "name": "Cintura desigual",
+        "description": "o corpo pendendo para um lado."
+      },
+
+      {
+        "@type": "MedicalSignOrSymptom",
+        "name": "Dores na coluna"
+      },
+
+      {
+        "@type": "MedicalSignOrSymptom",
+        "name": "Dores diárias"
+      },
+
+      {
+        "@type": "MedicalSignOrSymptom",
+        "name": "Dores se estiver realizando alguma atividade"
+      }
+  ],
+  "subtype": "Adaptação:
+É uma diferença no comprimento dos membros inferiores, surgindo uma adaptação do próprio organismo com a situação.
+Má formação:
+Acontece ao longo do desenvolvimento do feto, apesar de não ser reversível a doença, os tratamento começam mediante ao nascimento prevenindo dores e complicações no futuro.
+Neurológica:
+Ela se desenvolve com outras patologias junto, associadas a doenças neurológicas e musculares, como: paralisia cerebral, traumatismo, distrofias musculares.",
+
+"possibleTreatment": {
+  "@type": "PhysicalTherapy",
+  "name": "Pilates",
+  "outcome": [
+    "Fortalecimento",
+    "Alongamento",
+    "Equilíbrio corporal",
+    "Reduzir tensões musculares",
+    "Alívio de dores",
+    "Prevenindo o agravamento da doença"
+  ]
+}
+
+
+
+  }, {
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.raquelmanfroi.com.br/fisioterapia-pilates-escoliose/"
+  },
+  "headline": "Sabia que o Pilates pode ajudar na escoliose?",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2017/08/escoliose.jpg",
+    "height": 675,
+    "width": 1080
+  },
+  "datePublished": "2017-08-11T09:39:00-03:00",
+  "dateModified": "2017-07-11T10:45:00-03:00",
+  "author": {
+    "@type": "Person",
+    "name": "Raquel Manfroi"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Raquel Manfroi Fisioterapia",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2017/07/logo-raquel-manfroi-fisioterapia-novo-600.png",
+      "width": 600,
+      "height": 60
+    },
+    "description": "Conheça um dos principais métodos da Fisioterapia para auxiliar no tratamento da Escoliose: O Pilates e suas aplicações no tratamento."
+  }
+
+
+}
+]

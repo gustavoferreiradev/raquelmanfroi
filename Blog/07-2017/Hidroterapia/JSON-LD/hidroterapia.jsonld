@@ -1,0 +1,41 @@
+<script type='application/ld+json'>
+{
+  "@context": "http://schema.org",
+  "@type": "PhysicalTherapy",
+  "name": "Hidroterapia",
+  "description": "Hidroterapia, é a fisioterapia aquática. São exercícios terapêuticos em que é usado as propriedades da água, ajudando o paciente a ter mais facilidade para a realização dos exercícios, pois o peso do paciente se reduz quando está submerso em água, podendo mover os membros sem dor ou esforço físico.",
+  "indication": {
+    "@type": "MedicalIndication",
+    "name": "Hidroterapia",
+    "description":"A hidroterapia é indicada para:
+
+ Gestantes, obesidade e terceira idade.
+ Lesões de ombro, cotovelo, coluna, quadril, joelho, tornozelo e pé.
+ Artrose, osteoporose, osteopenia e artrites.
+ Mal de Parkinson e fibromialgia.
+ Hérnia discal, AVC, espondilolistese, compressões ciáticas. Lordoses, escoliose e cervicalgias.
+ Treino de marcha, equilíbrio e coordenação.
+ Atrofias musculares, fraturas, luxações."
+    },
+"howPerformed": "O tratamento da fisioterapia é feito após avaliações, a serem seguidas de forma a facilitar e agilizar a reabilitação. A água é um meio de cura, é um canal de calor ou frio para o corpo. Unida ao corpo, ela consegue alterar unidades do corpo humano como o sistema nervoso, agindo no aparelho circulatório, causando efeitos sobre a normalização do calor corporal. As influências que o contato com a água tem no corpo são nos sistemas: nervoso, circulatório e térmico.
+O sistema nervoso estimulado, melhora suas funções, produzindo, sensação de bem estar, alegria e sensação de disposição.
+Podemos dizer que a água tonifica o sistema.",
+"study": {
+  "@type": "MedicalStudy",
+  "description":
+  "Os benefícios que a hidroterapia proporcionam são inúmeros:
+Melhora o fortalecimento da musculatura.
+Aumenta a consciência corporal.
+Diminui o stress e é relaxante.
+Auxilia no tratamento de hematomas causados por traumas.
+Melhora a circulação sanguínea.
+
+A fisioterapia na água, para atletas que se encontram lesionados, a recuperação é muito mais precisa e rápida ao usar a hidroterapia como recurso.
+
+Reduz a sensibilidade à dor: dá a oportunidade realizar os exercícios que em solo existiria dor.
+Aumenta a resistência corporal, equilíbrio e estabilidade.
+Melhora a musculatura respiratória.
+
+ A fisioterapia quer proporcionar conforto para uma reabilitação, solucionar problemas e trabalhar para que o paciente conheça seu próprio corpo."
+}
+}

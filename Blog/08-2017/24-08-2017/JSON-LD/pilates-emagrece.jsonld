@@ -1,0 +1,59 @@
+<script type='application/ld+json'>
+[{
+  "@context": "http://schema.org",
+  "@type": "PhysicalTherapy",
+  "name": "Pilates",
+  "description": "O Pilates trabalha o corpo inteiro, beneficiando todo o organismo do corpo humano.",
+  "indication": {
+      "@type":"MedicalIndication",
+      "description": "Auxiliar na reabilitação e em tratamentos de várias patologias"
+  },
+    "bodyLocation": "Corpo Inteiro",
+    "outcome":["há uma perda de gordura pois, aumenta os gastos calóricos, estimulando o organismo a perder calorias para manter as movimentações musculares.",
+               "Estimula os órgãos internos, melhorando seu funcionamento",
+               "Acelera o metabolismo",
+               "Fortalece de músculos(pernas e braços)",
+               "Afina a cintura",
+               "Aumenta a postura corporal",
+               "Flexibilidade",
+               "Estimula a paciência e equilíbrio"
+       
+        ]
+
+
+  }, {
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.raquelmanfroi.com.br/pilates-emagrece/"
+  },
+  "headline": "Pilates Emagrece?",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2017/08/pilates-emagrece.jpg",
+    "height": 675,
+    "width": 1080
+  },
+  "datePublished": "2017-08-24T10:01:00-03:00",
+  "dateModified": "2017-08-24T10:10:00-03:00",
+  "author": {
+    "@type": "Person",
+    "name": "Raquel Manfroi"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Raquel Manfroi Fisioterapia",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2017/07/logo-raquel-manfroi-fisioterapia-novo-600.png",
+      "width": 600,
+      "height": 60
+    },
+    "description": "Confira o porquê todas as atividades realizadas utilizando o método Pilates com um fisioterapeuta podem auxiliar na perda de peso."
+  }
+
+  }
+
+]
+</script>

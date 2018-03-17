@@ -1,0 +1,91 @@
+<script type='application/ld+json'>
+[ 
+{
+
+ "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+ [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "item":
+    {
+     "@id": "http://www.raquelmanfroi.com.br",
+     "name": "Home"
+ } 
+ },
+ 
+ {
+    "@type": "ListItem",
+    "position": 2,
+    "item":
+    {
+     "@id": "http://www.raquelmanfroi.com.br/fisioterapia-blog/",
+     "name": "Blog"
+ } 
+ },
+ 
+  {
+    "@type": "ListItem",
+    "position": 3,
+    "item":
+    {
+     "@id": "http://www.raquelmanfroi.com.br/fisioterapia-blog/fisioterapia-respiratoria/",
+     "name": "Fisioterapia Respiratória"
+ } 
+ },
+ 
+   {
+    "@type": "ListItem",
+    "position": 4,
+    "item":
+    {
+     "@id": "http://www.raquelmanfroi.com.br/fisioterapia-respiratoria/",
+     "name": "Você tem filho de menos de 3 anos?"
+ 
+ }
+   }
+     ]
+
+
+
+
+},{
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http://www.raquelmanfroi.com.br/fisioterapia-respiratoria/"
+        },
+        "headline": "VVocê tem filho de menos de 3 anos?",
+        "articleBody": "A fisioterapia respiratória também conhecida como fisioterapia cardiopulmonar, é uma especialidade da fisioterapia. Ela pode ser tratada em domicílio, clínicas e hospitais, seu objetivo é prevenir ou curar disfunções trazidas por doenças respiratórias como tuberculose, bronquite, asma e etc. Mas quero abordar com vocês sobre a fisioterapia respiratória infantil, que se difere da prática para adultos. Pois os fatores fisiológicos e anatômicos são diferentes entre crianças e adultos. Segundo a ASSOBRAFIR (Associação Brasileira de Fisioterapia Cardiorrespiratória e Fisioterapia em Terapia Intensiva): “A crescente incidência de enfermidades respiratórias infantis está ligada em parte a evolução de germes responsáveis pelas infecções respiratórias e ao predomínio de infecções virais sobre as infecções bacterianas, e a outra parte a um conjunto de fatores ambientais que associam os hábitos de vida e poluição do ar. Devido às particularidades do sistema respiratório e a predisposição genética, as crianças estão sempre suscetíveis a infecções respiratórias. As mais comuns são a bronquiolite e as pneumonias. Diversas doenças são responsáveis por um acúmulo de secreções bronquiais, sendo necessário recorrer a intervenção da fisioterapia respiratória”. Objetivo da fisioterapia: Seu objetivo é recuperar o quanto antes as funções respiratórias da criança afetada por alguma doenças respiratórias, melhorando: A oxigenação A troca gasosa  A ventilação pulmonar Eliminar secreções pulmonares Diminuir o trabalho respiratório Aumentar a mobilidade torácica Fortalecer a musculatura respiratória Melhorar a expansão pulmonar Prevenir complicações originados da internação/intubação Acelerar a recuperação Principais técnicas de fisioterapia respiratória? Drenagem Postural, Manobras de Higiene Brônquica, Técnicas de auxílio à tosse, Utilização de incentivadores respiratórios, Técnicas de reexpansão pulmonar, Técnicas de reeducação respiratória Para realizar a terapia é preciso fazer uma avaliação da ausculta pulmonar(ouvir os ruídos do pulmão) e analisar se a criança tem condições de realizar todas as técnicas abordadas. Ao terminar a fisioterapia haverá sempre uma reavaliação para observar o quadro clínico geral da criança, o tratamento respiratório deve ser feito diariamente para se obter sucesso. Os pais podem ajudar? Para uma criança o pai e mãe são seu porto seguro. Por isso, os pais devem participar da fisioterapia, auxiliando na realização correta das inalações, incentivando a criança, encorajando a realizar os exercícios, a criança precisa ser colocada em diferentes posições para auxiliar na ventilação pulmonar, como por exemplo: deitado, barriga para baixo, cabeceira elevada, orientados sobre a importância da realização de técnicas de limpeza brônquica, sempre por orientações. Lembre-se de consultar com um especialista antes de começar qualquer tipo de tratamento. Quer saber mais? Entre em contato com: (46) 99110-8494 raquelmanfroi@raquelmanfroi.com.br",
+        "image": {
+            "@type": "ImageObject",
+            "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2017/11/fisioterapia-respiratoria.jpg",
+            "height": 675,
+            "width": 1080
+        },
+        "datePublished": "2017-11-08T13:26:00-03:00",
+        "dateModified": "2017-11-08T15:00:00-03:00",
+        "author": {
+            "@type": "Person",
+            "@id": "https://www.facebook.com/raquel.manfroi",
+            "name": "Raquel Manfroi"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "@id": "http://www.raquelmanfroi.com.br",
+            "name": "Raquel Manfroi Fisioterapia",
+            "logo": {
+                "@type": "ImageObject",
+                "@id": "http://www.raquelmanfroi.com.br",
+                "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2017/07/logo-raquel-manfroi-fisioterapia-novo-600.png",
+                "width": 600,
+                "height": 60
+            },
+            "description": "Tem filho de menos de 3 anos? Como está a respiração dele? Acredita que há problemas? Veja como a Fisioterapia pode te ajudar."
+        }
+    }
+    ]
+</script>

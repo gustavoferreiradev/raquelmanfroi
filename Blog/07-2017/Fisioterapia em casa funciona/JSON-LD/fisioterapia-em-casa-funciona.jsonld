@@ -1,0 +1,56 @@
+<script type='application/ld+json'>
+[{
+  "@context": "http://schema.org",
+  "@type": "PhysicalTherapy",
+  "name": "Fisioterapia Domiciliar",
+  "description": "Conheça Fisioterapia Domiciliar, que é a praticada em casa, será que realmente funciona? Será que é eficiente para todos os tipos de pessoas?",
+  "indication": {
+    "@type": "MedicalIndication",
+    "name": "Fisioterapia Domiciliar",
+    "description":"O tratamento é realizado para pacientes: Gestantes, Geriatria (idosos), Pós-operatório, Neurológicos, Respiratórios, Traumatológicos"
+    },
+"howPerformed": "A fisioterapia pode ser feita com: massagens, ginástica e exercícios específicos.
+Alguns deles podem ser feitos com aparelhos:
+Bolas, elásticos, ultra-som, tratamento com água quente ou fria.
+",
+"study": {
+  "@type": "MedicalStudy",
+  "description":
+  "Hoje, médicos têm recomendado a seus pacientes a fisioterapia domiciliar pois em muito casos a família leva a motivar a melhorar e recuperar o que foi perdido, acompanhando durante as sessões, significando muito para uma boa reabilitação.
+"
+}
+}, {
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.raquelmanfroi.com.br/fisioterapia-em-casa-funciona"
+  },
+  "headline": "fisioterapia em casa, funciona?",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2017/07/fisioterapia-domiciliar.jpg",
+    "height": 675,
+    "width": 1080
+  },
+  "datePublished": "2017-07-21T17:45:00-03:00",
+  "dateModified": "2017-05-21T17:45:00-03:00",
+  "author": {
+    "@type": "Person",
+    "name": "Raquel Manfroi"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Raquel Manfroi Fisioterapia",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2016/11/logo-raquel-manfroi-fisioterapia-novo.png",
+      "width": 542,
+      "height": 68
+    },
+    "description": "Conheça Fisioterapia Domiciliar, que é a praticada em casa, será que realmente funciona? Será que é eficiente para todos os tipos de pessoas? Confira"
+  }
+
+
+}
+]

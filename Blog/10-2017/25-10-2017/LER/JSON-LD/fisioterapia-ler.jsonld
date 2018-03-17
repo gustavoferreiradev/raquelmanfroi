@@ -1,0 +1,90 @@
+<script type='application/ld+json'>
+[ 
+{
+
+ "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement":
+ [
+    {
+    "@type": "ListItem",
+    "position": 1,
+    "item":
+    {
+     "@id": "http://www.raquelmanfroi.com.br",
+     "name": "Home"
+ } 
+ },
+ 
+ {
+    "@type": "ListItem",
+    "position": 2,
+    "item":
+    {
+     "@id": "http://www.raquelmanfroi.com.br/fisioterapia-blog/",
+     "name": "Blog"
+ } 
+ },
+ 
+  {
+    "@type": "ListItem",
+    "position": 3,
+    "item":
+    {
+     "@id": "http://www.raquelmanfroi.com.br/fisioterapia-blog/fisioterapia/",
+     "name": "Fisioterapia"
+ } 
+ },
+ 
+   {
+    "@type": "ListItem",
+    "position": 4,
+    "item":
+    {
+     "@id": "http://www.raquelmanfroi.com.br/fisioterapia-ler/",
+     "name": "Você sabe o que é LER? E o que a fisioterapia pode ajudar?"
+ 
+ }
+   }
+     ]
+
+
+
+
+},{
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "mainEntityOfPage": {
+            "@type": "WebPage",
+            "@id": "http://www.raquelmanfroi.com.br/fisioterapia-ler/"
+        },
+        "headline": "Você sabe o que é LER? E o que a fisioterapia pode ajudar?",
+        "articleBody": "LER, Lesão por Esforço Repetitivo, são lesões nos sistemas musculoesqueléticos e no sistema nervoso, por consequência de movimentos repetitivos ou esforços repetitivos em uma mesma posição desagradável, um dos tratamentos feitos é a fisioterapia. LER não é uma doença e sim uma síndrome inflamatória que causa dores e inabilidade funcional. A lesão por esforço físico pode promover outras síndromes como tendinite, reumatismo, esclerose sistêmica, bursite. O que causa a síndrome? Essas lesões acontecem por atividades repetitivas,na maioria das vezes no ambiente de trabalho, por meio de excessos do sistema musculoesquelético. A repetição de atividades, má postura e excesso de força em um membro específico podem prejudicar a circulação sanguínea. Por tanto, o espaço de trabalho inadequado é o maior causador de lesões. Regiões comprometidas pela LER: Cotovelos, punhos, pescoço e coluna lombar.A LER apresenta 4 fases: 1 - Dor na região específica, apresentada durante a atividade repetitiva, a parte afetada do corpo tende a ficar mais “pesada”, sentindo dores e pontadas na região mas não interferem na produtividade. 2 - Dor em inúmeras regiões do corpo durante atividades, uma dor contínua e intensa, mas passável. Acompanhada de formigamento, calor e sensibilidade no local. 3 - Uma dor insistente e contínua durante atividades diárias e em repouso. Podendo perder força muscular e até impossibilitar de realizar funções. 4 - Dor continua a todo momento, contendo aumento de sensibilidade em todo o membro afetado. Perdendo controle e forças, com incapacidade de exercer atividade diárias e trabalhar. Recomendação: Verifique de que sua cadeira é confortável e que seja adequada às suas atividades.Mantenha as costas eretas, num encosto confortável com os relaxados, cuidando para que os punhos não fique dobrado a todo momento. A cada uma hora levante - se, ande um pouco e faça alongamentos. LER e Fisioterapia: A fisioterapia auxilia no tratamento, para cada caso pode se realizar exercícios diferentes, também podem ser feitos exercícios de aquecimento, aumentando a temperatura dos músculos e tendões, os exercícios para amenizar a tensão no membro específico pode ser feito nos intervalos do trabalho. A fisioterapia com RPG que tem por objetivo alcançar a melhora postura para a coluna pode diminuir as dores conforme o andamento do tratamento. Quer saber mais? Tenho vários conteúdos que podem te interessar. Leia meu Blog meu nome é Raquel Manfroi fisioterapeuta e quero lhe mostrar como a fisioterapia pode te ajudar.",
+        "image": {
+            "@type": "ImageObject",
+            "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2017/10/ler.jpg",
+            "height": 675,
+            "width": 1080
+        },
+        "datePublished": "2017-10-25T12:11:00-03:00",
+        "dateModified": "2017-10-25T14:40:00-03:00",
+        "author": {
+            "@type": "Person",
+            "@id": "https://www.facebook.com/raquel.manfroi",
+            "name": "Raquel Manfroi"
+        },
+        "publisher": {
+            "@type": "Organization",
+            "name": "Raquel Manfroi Fisioterapia",
+            "logo": {
+                "@type": "ImageObject",
+                "@id": "http://www.raquelmanfroi.com.br",
+                "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2017/07/logo-raquel-manfroi-fisioterapia-novo-600.png",
+                "width": 600,
+                "height": 60
+            },
+            "description": "Você sabe o que é LER? Conheça mais sobre como ocorre, como se prevenir e como a Fisioterapia pode te auxiliar no tratamento."
+        }
+    }
+    ]
+</script>

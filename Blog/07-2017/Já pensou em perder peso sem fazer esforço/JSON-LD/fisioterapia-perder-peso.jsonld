@@ -1,0 +1,71 @@
+<script type='application/ld+json'>
+[{
+  "@context": "http://schema.org",
+  "@type": "PhysicalTherapy",
+  "name": "Plataforma Vibratória",
+  "description": "Já pensou em perder peso sem fazer esforço?
+Conheça um aparelho na fisioterapia  que está sendo muito procurado, a plataforma vibratória.",
+  "indication": {
+    "@type": "MedicalIndication",
+    "name": "Plataforma Vibratória",
+    "description":"O tratamento é realizado para pacientes: Gestantes, Geriatria (idosos), Pós-operatório, Neurológicos, Respiratórios, Traumatológicos"
+    },
+"howPerformed": "A plataforma tem uma função muito importante no processo de reabilitação muscular, pois a estimulação muscular não ocasiona desconforto ou dores durante o exercício. Ela pode ser usada em intervalos de outras atividades físicas também podem ser feitos exercícios em pé, fazer agachamento, flexão e até mesmo abdominais.
+",
+"study": {
+  "@type": "MedicalStudy",
+  "description":
+  "Algumas vantagens são:
+Melhora a flexibilidade.
+Previne os processos de degeneração óssea (osteoporose).
+Diminui o stress.
+Ajuda na diminuição da gordura corporal.
+Estimula a massa magra.
+Não demanda de força ou resistência muscular.
+Promove relaxamento e massagem.
+Elimina líquidos retidos.
+Não é recomendado para:
+Crianças menores de 10 anos.
+Grávidas ou mulheres com DIU.
+Pacientes com doenças cardíacas.
+Portadores de hérnia de disco.
+Portadores de marcapasso.
+
+"
+}
+}, {
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://www.raquelmanfroi.com.br/fisioterapia-plataforma-vibratoria"
+  },
+  "headline": "Já pensou em perder peso sem fazer esforço?",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2017/07/fisioterapia-plataforma-vibratoria.jpg",
+    "height": 675,
+    "width": 1080
+  },
+  "datePublished": "2017-07-27T15:00:00-03:00",
+  "dateModified": "2017-07-27T15:00:00-03:00",
+  "author": {
+    "@type": "Person",
+    "name": "Raquel Manfroi"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Raquel Manfroi Fisioterapia",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://www.raquelmanfroi.com.br/wp-content/uploads/2017/07/logo-raquel-manfroi-fisioterapia-novo-600.png",
+      "width": 600,
+      "height": 60
+    },
+    "description": "Já pensou em perder peso sem fazer esforço?
+Conheça um aparelho na fisioterapia  que está sendo muito procurado, a plataforma vibratória."
+  }
+
+
+}
+]

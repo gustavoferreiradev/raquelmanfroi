@@ -1,0 +1,23 @@
+<script type='application/ld+json'>
+{
+	"@context": "http://schema.org/",
+	"@type": "Hospital",
+	"openingHours": "Mo,Tu,We,Th,Fr 08:30-18:00",
+	"address": {
+		"@type": "PostalAddress",
+		"addressCountry": "Brazil",
+		"addressLocality": "Paraná",
+		"postOfficeBoxNumber": "+554632202920",
+		"postalCode": " 85501-071",
+		"streetAddress": "Avenida Brasil, 450 - Centro",
+		"email": "raquelmanfroi@raquelmanfroi.com.br",
+		"telephone": "+554632202920"
+	},
+	"image": "http://www.raquelmanfroi.com.br/wp-content/uploads/2016/11/logo-raquel-manfroi-fisioterapia-novo.png",
+	"name": [
+		"Raquel Manfroi",
+		"http://www.raquelmanfroi.com.br"
+	],
+	"photo": "http://www.raquelmanfroi.com.br/wp-content/uploads/2016/09/foto-raquel-manfroi.png"
+}
+</script>
